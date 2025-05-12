@@ -6,6 +6,8 @@ Junior/trainee data analyst
 
 I am a former criminology and psychology student looking to move into the data industry and I have recently completed a skills bootcamp learning the fundamentals of data analysis, throughout which we have covered the basics of Python, Power BI, Tableau, SQL and Microsoft Azure. I am looking to build on the skills developed on this bootcamp in my own time through work on my own personal projects, which can be found in [my portfolio.](https://github.com/JackPoole19/Portfolio)
 
+I am currently looking for work in the data industry and am open to job opportunities.
+
 * 🌍  I'm based in Leeds, UK
 * ✉️  You can contact me at [jackpoole8@gmail.com](mailto:jackpoole8@gmail.com)
 * 🧠  I'm learning Python, Tableau, Power Bi, SQL
